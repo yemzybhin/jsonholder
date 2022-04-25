@@ -1,1 +1,24 @@
-{"message":"Got Apps","apps":[{"_id":"6242ee4b761dd500165b928e","name":"Growth Checker App","playStoreUrl":"https://play.google.com/store/apps/details?id=ade.yemi.growthchecker","appIconUrl":"https://ik.imagekit.io/tcu4tmaa6/science_fact_guru_Xe7547kxs1.png","createdAt":"2022-03-29T11:32:27.200Z","updatedAt":"2022-03-29T11:32:27.200Z","__v":0},{"_id":"6242e797761dd500165b9284","name":"Science Facts Guru","playStoreUrl":"https://play.google.com/store/apps/details?id=com.regedit.science_guru_premium","appIconUrl":"https://ik.imagekit.io/tcu4tmaa6/science_fact_guru_oWG6fhk72.png","createdAt":"2022-03-29T11:03:51.212Z","updatedAt":"2022-03-29T11:03:51.212Z","__v":0},{"_id":"6229af09eb7c4e00169b7516","name":"5 Points Gpa Calculator","playStoreUrl":"https://play.google.com/store/apps/details?id=com.yemi.a5gradepointgpcalculator","appIconUrl":"https://ik.imagekit.io/tcu4tmaa6/science_fact_guru_nmqRLXQ_Dt.jpeg","createdAt":"2022-03-10T07:55:53.756Z","updatedAt":"2022-03-10T07:55:53.756Z","__v":0}],"success":true}
+{
+  "message":"Got Apps",
+  "apps":
+  [
+    {
+      "_id":"6242ee4b761dd500165b928e",
+     "name":"Growth Checker App",
+     "playStoreUrl":"https://play.google.com/store/apps/details?id=ade.yemi.growthchecker",
+     "appIconUrl":"https://ik.imagekit.io/tcu4tmaa6/science_fact_guru_Xe7547kxs1.png",
+     "createdAt":"2022-03-29T11:32:27.200Z","updatedAt":"2022-03-29T11:32:27.200Z","__v":0},
+    {
+      "_id":"6242e797761dd500165b9284",
+      "name":"Science Facts Guru",
+      "playStoreUrl":"https://play.google.com/store/apps/details?id=com.regedit.science_guru_premium",
+      "appIconUrl":"https://ik.imagekit.io/tcu4tmaa6/science_fact_guru_oWG6fhk72.png",
+      "createdAt":"2022-03-29T11:03:51.212Z","updatedAt":"2022-03-29T11:03:51.212Z","__v":0},
+    {
+      "_id":"6229af09eb7c4e00169b7516",
+      "name":"5 Points Gpa Calculator",
+      "playStoreUrl":"https://play.google.com/store/apps/details?id=com.yemi.a5gradepointgpcalculator",
+      "appIconUrl":"https://ik.imagekit.io/tcu4tmaa6/science_fact_guru_nmqRLXQ_Dt.jpeg",
+      "createdAt":"2022-03-10T07:55:53.756Z","updatedAt":"2022-03-10T07:55:53.756Z","__v":0}
+  ],
+  "success":true}
