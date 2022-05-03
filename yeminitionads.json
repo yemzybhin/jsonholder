@@ -3,8 +3,8 @@
   "ads":
   [
     {
-     "message":"Notification",
-     "visible":false,
+     "message":"Advert",
+     "visible":true,
      "Title":"Ads are now available",
      "Description":"You can now get free points by watching ads. Navigate to the abouts page to get free points",
      "Link":"",
