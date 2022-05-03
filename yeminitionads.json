@@ -3,12 +3,12 @@
   "ads":
   [
     {
-     "message":"Advert",
+     "message":"Notification",
      "visible":true,
      "Title":"Ads are now available",
      "Description":"You can now get free points by watching ads. Navigate to the abouts page to get free points",
-     "Link":"",
-     "Imagelink":"",
+     "Link":"https://ik.imagekit.io/qp1uarozx/24-01_b3p72qnKY.jpg ",
+     "Imagelink":"https://ik.imagekit.io/qp1uarozx/24-01_b3p72qnKY.jpg",
      "SmallImagelink":"https://ik.imagekit.io/fyqjtlyyork/buycoins__MH_YzT6f.png"},
     {
      "message":"Advert",
