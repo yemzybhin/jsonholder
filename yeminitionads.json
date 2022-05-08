@@ -3,13 +3,13 @@
   "ads":
   [
     {
-     "message":"Notification",
-     "visible":false,
-     "Title":"Ads are now available",
-     "Description":"You can now get free points by watching ads. Navigate to the abouts page to get free points",
+     "message":"Hi, Friend!",
+     "visible":true,
+     "Title":"How has studying been?",
+     "Description":"Hi, I'm Yemi. I presume you've either done your exam or yet to. If you're yet to, then this is for you. Studying is'nt so easy, but trust me the end result is always worth it. This is the best time to work on whatever score you desire before it's too late. All things are possible, it's just a matter of one's state of mind. You can do it, I know you will!!. Best of luck friend!",
      "Link":"https://ik.imagekit.io/qp1uarozx/24-01_b3p72qnKY.jpg ",
-     "Imagelink":"https://ik.imagekit.io/qp1uarozx/24-01_b3p72qnKY.jpg",
-     "SmallImagelink":"https://ik.imagekit.io/fyqjtlyyork/buycoins__MH_YzT6f.png"},
+     "Imagelink":"https://ik.imagekit.io/qp1uarozx/boy_DbH1z5pKa.png",
+     "SmallImagelink":"https://ik.imagekit.io/qp1uarozx/boy_DbH1z5pKa.png"},
     {
      "message":"Advert",
      "visible":false,
