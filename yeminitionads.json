@@ -3,13 +3,13 @@
   "ads":
   [
     {
-     "message":"Hi, Friend!",
+     "message":"ADVERT",
      "visible":true,
-     "Title":"How has studying been?",
-     "Description":"Hi, I'm Yemi. I presume you've either done your exam or you're yet to. If you're yet to, then this is for you. Studying is'nt so easy, but trust me the end result is always worth it. This is the best time to work on whatever score you desire before it's too late. All things are possible, it's just a matter of one's state of mind. You can do it, I know you will!!. Best of luck friend!",
-     "Link":"",
-     "Imagelink":"",
-     "SmallImagelink":"https://ik.imagekit.io/qp1uarozx/wan-01_GtcsFMzpf.png"},
+     "Title":"Follow Us",
+     "Description":"Hi, this is Yemi ones again. Hope your day's going fine. Kindly checkout our instagram page. Click the "\visit"\ buton below.",
+     "Link":"https://www.instagram.com/yeminition_tv/",
+     "Imagelink":"https://ik.imagekit.io/qp1uarozx/golden-social-media-logo-Instagram-png_7ho2RhDTV.png",
+     "SmallImagelink":"https://ik.imagekit.io/qp1uarozx/golden-social-media-logo-Instagram-png_7ho2RhDTV.png"},
     {
      "message":"Advert",
      "visible":false,
