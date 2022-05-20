@@ -4,19 +4,21 @@
   [
     {
      "message":"ADVERT",
-     "visible":false,
+     "visible":true,
      "Title":"Follow Us",
      "Description":"Hi, this is Yemi ones again. Hope your day's going fine. Kindly checkout our instagram page. Click the visit button below.",
      "Link":"https://www.instagram.com/yeminition_tv/",
      "Imagelink":"https://ik.imagekit.io/qp1uarozx/golden-social-media-logo-Instagram-png_7ho2RhDTV.png",
+     "VideoLink":"",
      "SmallImagelink":"https://ik.imagekit.io/qp1uarozx/golden-social-media-logo-Instagram-png_7ho2RhDTV.png"},
     {
      "message":"Advert",
-     "visible":false,
+     "visible":true,
      "Title":"Indomietable Chicken",
      "Description":"These are the days of the prophet. All they are saying is that These are the days of the prophet. All they are saying is that you do the way of the lord and do it well. No questions are asked. Just do it . /n\n adeydemkd HD a boy that is coming up and I love that to the point ohh f omg. /n/n \n\n, do the way of the lord and do it well. No questions are asked. Just do it",
      "Link":"https://play.google.com/store/apps/details?id=ade.yemi.growthchecker",
      "Imagelink":"http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4",
+     "VideoLink":"",
      "SmallImagelink":"https://ik.imagekit.io/qp1uarozx/24-01_b3p72qnKY.jpg"}
   ],
   "success":true}
