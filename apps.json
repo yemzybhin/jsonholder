@@ -1,0 +1,51 @@
+{
+    "message" : "success",
+    "apps" : [
+        {
+            "_id" : "not found",
+            "name" : "Riddles and Teasers",
+            "playStoreUrl" : "https://play.google.com/store/apps/details?id=ade.yemi.riddlesandteasers&pli=1",
+            "appIconUrl" : "https://lh3.googleusercontent.com/BXsU2Zezeor9KrclrfyFmgOyMsEXLr2V6EKrcyy5LNaeUuBtANGU5C71pHvo5d5x2Sbs",
+            "createdAt" : "jbjbj",
+            "updatedAt" : "uujknkj",
+            "version" : 2
+        },
+        {
+            "_id" : "not found",
+            "name" : "Simplified Jamb Cbt",
+            "playStoreUrl" : "https://play.google.com/store/apps/details?id=ade.yemi.simplifiedjambcbt",
+            "appIconUrl" : "https://lh3.googleusercontent.com/t38DoKMxa-GTAdwdcpw96daY-eo8tcGGxMeDT6tK7bYAlio5oe6lNFu1Midme1pGJkDd",
+            "createdAt" : "jbjbj",
+            "updatedAt" : "uujknkj",
+            "version" : 2
+        },
+        {
+            "_id" : "not found",
+            "name" : "Status saver",
+            "playStoreUrl" : "https://play.google.com/store/apps/details?id=ade.yemi.youtubewhatsappsaver",
+            "appIconUrl" : "https://lh3.googleusercontent.com/liH2CY2OSADw2nnNv302ubY6ETQH67WkyyIyBaZSIT1qwei3uC-RFR1FIM_fffjjNg",
+            "createdAt" : "jbjbj",
+            "updatedAt" : "uujknkj",
+            "version" : 2
+        },
+        {
+            "_id" : "not found",
+            "name" : "Growth Checker App",
+            "playStoreUrl" : "https://play.google.com/store/apps/details?id=ade.yemi.growthchecker_free",
+            "appIconUrl" : "https://lh3.googleusercontent.com/o0mTP9gG0KMS6235gKyspYUzO2n4cmvSABdEYXtflvvLZy8k0YHLl6arjnQIqA05F2s",
+            "createdAt" : "jbjbj",
+            "updatedAt" : "uujknkj",
+            "version" : 2
+        },
+        {
+            "_id" : "not found",
+            "name" : "Science Facts Guru",
+            "playStoreUrl" : "https://play.google.com/store/apps/details?id=com.regedit.science_guru",
+            "appIconUrl" : "https://lh3.googleusercontent.com/IhOm7EwRpZDgwxKA4ZW7qor5zplXMuutaC2xR8IPlR9E1jxiWODaJ3WzPCBMDJFbuik",
+            "createdAt" : "jbjbj",
+            "updatedAt" : "uujknkj",
+            "version" : 2
+        }
+    ],
+    "success" : true
+}
