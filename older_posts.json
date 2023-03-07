@@ -7,7 +7,7 @@
     "page": 1,
     "limit": 50
 },
-"Older_posts" : [
+"olderPosts" : [
         { "likes" : [],
         "_id" : "not found",
         "title" : "Fire is the visible effect of the process of combustion.  A special type of chemical reaction.",
