@@ -16,6 +16,34 @@
         "createdAt" : "2023-01-31T15:44:00.741+00:00",
         "updatedAt" : "2023-01-31T15:44:00.741+00:00",
         "videoUrl" : "https://youtu.be/HuNgLRPzTY4"
+        },
+        { "likes" : [],
+        "_id" : "not found",
+        "title" : "Sometimes, hot water freezes more quickly than cold water.",
+        "body" : "Does hot water freeze faster than cold water?'--the answer is \'Not usually, but possibly under certain conditions.\' It takes 540 calories to vaporize one gram of water, whereas it takes 100 calories to bring one gram of liquid water from 0 degrees Celsius to 100 degrees C. When water is hotter than 80 degrees C, the rate of cooling by rapid vaporization is very high because each evaporating gram draws at least 540 calories from the water left behind. This is a very large amount of heat compared with the one calorie per Celsius degree that is drawn from each gram of water that cools by regular thermal conduction.\n\nIt all depends on how fast the cooling occurs, and it turns out that hot water will not freeze before cold water but will freeze before lukewarm water. Water at 100 degrees C, for example, will freeze before water warmer than 60 degrees C but not before water cooler than 60 degrees C. This phenomenon is particularly evident when the surface area that cools by rapid evaporation is large compared with the amount of water involved, such as when you wash a car with hot water on a cold winter day. [For reference, look at Conceptual Physics, by Paul G. Hewitt (HarperCollins, 1993).]\n\nAnother situation in which hot water may freeze faster is when a pan of cold water and a pan of hot water of equal mass are placed in a freezer compartment. There is the effect of evaporation mentioned above, and also the thermal contact with the freezer shelf will cool the bottom part of the body of water. If water is cold enough, close to four degrees C (the temperature at which water is densest), then near-freezing water at the bottom will rise to the top. Convection currents will continue until the entire body of water is 0 degrees C, at which point all the water finally freezes. If the water is initially hot, cooled water at the bottom is denser than the hot water at the top, so no convection will occur and the bottom part will start freezing while the top is still warm. This effect, combined with the evaporation effect, may make hot water freeze faster than cold water in some cases. In this case, of course, the freezer will have worked harder during the given amount of time, extracting more heat from hot water.",
+        "imageUrl" : "https://ik.imagekit.io/qp1uarozx/2_b6quuQOg_.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678384580929",
+        "createdAt" : "2023-01-31T15:44:00.741+00:00",
+        "updatedAt" : "2023-01-31T15:44:00.741+00:00",
+        "videoUrl" : "https://youtu.be/7d1CyZP22OU"
+        },
+    
+     { "likes" : [],
+        "_id" : "not found",
+        "title" : "Sharks have been around longer than dinosaurs.",
+        "body" : "The mere suggestion of a shark is enough to conjure fear in many of us. But sharks also inspire awe. It isn’t just their elegance or physicality; equally impressive is their tenacity. As a group, sharks have been around for at least 420 million years, meaning they have survived four of the “big five” mass extinctions. That makes them older than humanity, older than Mount Everest, older than dinosaurs, older even than trees.\n\nIt is possible that sharks just got lucky in the lottery of life. But over the past few years, scientists have discovered that the fish possess some unusual qualities that allow them to be super-adaptable in the face of change, including a fondness for hanging out around underwater volcanoes. The big question now is whether these qualities will help sharks survive the current sixth mass extinction, triggered by human activities. Today, sharks face a new challenge, far deadlier than any they have ever encountered.\n\nSharks, along with rays, skates and chimaeras, make up a group of fish known as chondrichthyes, characterised by a cartilaginous skeleton. Fossil scales found in Siberia indicate that sharks originated in the Silurian period, the third period of the Paleozoic Era. It began 443.8 million years ago and ended 419.2 million years ago, extending from the close of the Ordovician Period to the beginning of the Devonian Period.\n",
+        "imageUrl" : "https://ik.imagekit.io/qp1uarozx/3_lHueUdAcF.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678384581403",
+        "createdAt" : "2023-01-31T15:44:00.741+00:00",
+        "updatedAt" : "2023-01-31T15:44:00.741+00:00",
+        "videoUrl" : "https://youtu.be/TPM_rVpxh14"
+        },
+     { "likes" : [],
+        "_id" : "not found",
+        "title" : "There are tiny star-like heavenly bodies that are so dense called Neutrons.",
+        "body" : "A neutron star is the densest object astronomers can observe directly, crushing half a million times Earth's mass into a sphere about 12 miles across.\n\nNeutron stars are formed when a massive star runs out of fuel and collapses. The very central region of the star – the core – collapses, crushing together every proton and electron into a neutron. If the core of the collapsing star is between about 1 and 3 solar masses, these newly-created neutrons can stop the collapse, leaving behind a neutron star. (Stars with higher masses will continue to collapse into stellar-mass black holes.)\n\nThis collapse leaves behind the densest object known – an object with the mass of a sun squished down to the size of a city. These stellar remnants measure about 20 kilometres (12.5 miles) across. One sugar cube of neutron star material would weigh about 1 trillion kilograms (or 1 billion tons) on Earth – about as much as a mountain.\n\nSince neutron stars began their existence as stars, they are found scattered throughout the galaxy in the same places where we find stars. And like stars, they can be found by themselves or in binary systems with a companion.\n\nMany neutron stars are likely undetectable because they simply do not emit enough radiation. However, under certain conditions, they can be easily observed. A handful of neutron stars have been found sitting at the centers of supernova remnants quietly emitting X-rays. More often, though, neutron stars are found spinning wildly with extreme magnetic fields as pulsars or magnetars. In binary systems, some neutron stars can be found accreting materials from their companions, emitting electromagnetic radiation powered by the gravitational energy of the accreting material.",
+        "imageUrl" : "https://ik.imagekit.io/qp1uarozx/4_x5EHBXSN9.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678384579696",
+        "createdAt" : "2023-01-31T15:44:00.741+00:00",
+        "updatedAt" : "2023-01-31T15:44:00.741+00:00",
+        "videoUrl" : "https://www.youtube.com/watch?v=o-27Xv38CYY"
         }
     ]
 }
