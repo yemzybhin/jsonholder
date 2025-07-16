@@ -1,25 +1,42 @@
 {
     "jellies" : [
+            {
+        "userName": "Mamadou Ba",
+        "handle" : "",
+        "profileImage" : "https://cbtzdoasmkbbiwnyoxvz.supabase.co/storage/v1/object/public/avatars/UGDq2vLwxBokUgr7.jpeg",
+        "description" : "A person expresses their experience of receiving positive reactions while biking in New York with a specific t-shirt, showcasing the city's welcoming attitude towards immigrants. Another individual responds with interest.",
+        "video" : "https://yemzybhin.github.io/jsonholder/1.mp4"
+    },
     {
-        "userName" : "jooj 0vrkeo vopej p",
-        "handle" : "@knlij",
-        "profileImage" : "https://wwww.okaopkp opkvapp vkapo. p[avo",
-        "description" : "nl kjeofe akjveoamv lokolkm vamp afopkmpo ",
-        "video" : "https://wwww.kn.bjfkevljlva.com"
+        "userName": "LIAM DARMODY",
+        "handle" : "",
+        "profileImage" : "https://cbtzdoasmkbbiwnyoxvz.supabase.co/storage/v1/object/public/avatars/f3e19034-f042-433f-bc60-2b7a6acf32d6.jpeg",
+        "description" : "The speaker expresses surprise and pleasure at discovering someone else, Lucius, who uses the phrase party people. They thought they were unique in using this term and are happy to find out they are not alone. They also wish everyone a fantastic Monday.",
+        "video" : "https://yemzybhin.github.io/jsonholder/2.mp4"
     },
         {
-        "userName" : "jooj 0vrkeo vopej p",
-        "handle" : "@knlij",
-        "profileImage" : "https://wwww.okaopkp opkvapp vkapo. p[avo",
-        "description" : "nl kjeofe akjveoamv lokolkm vamp afopkmpo ",
-        "video" : "https://wwww.kn.bjfkevljlva.com"
+        "userName": "Vinny Pearl",
+        "handle" : "",
+        "profileImage" : "https://cbtzdoasmkbbiwnyoxvz.supabase.co/storage/v1/object/public/avatars/157DD89D-D5EA-42C3-A615-6DF6CFF31C9F.jpg",
+        "description" : "The transcript is a conversation about observing the growth in a garden, noting the significant growth of puppies (likely a mistake meant to refer to plants), cucumbers cukes, and zucchinis. The speaker expresses excitement and anticipation for the continued growth and potential yield, particularly highlighting the squash and hoping it starts to take hold.",
+        "video" : "https://yemzybhin.github.io/jsonholder/3.mp4"
     },
-        {
-        "userName" : "jooj 0vrkeo vopej p",
-        "handle" : "@knlij",
-        "profileImage" : "https://wwww.okaopkp opkvapp vkapo. p[avo",
-        "description" : "nl kjeofe akjveoamv lokolkm vamp afopkmpo ",
-        "video" : "https://wwww.kn.bjfkevljlva.com"
+
+    {
+        "userName": "Fode Sylla",
+        "handle" : "",
+        "profileImage" : "https://cbtzdoasmkbbiwnyoxvz.supabase.co/storage/v1/object/public/avatars/d088a85d-66e1-4296-8671-7f36471a3605.jpeg",
+        "description" : "The transcript is a conversation about observing the growth in a garden, noting the significant growth of puppies (likely a mistake meant to refer to plants), cucumbers cukes, and zucchinis. The speaker expresses excitement and anticipation for the continued growth and potential yield, particularly highlighting the squash and hoping it starts to take hold.",
+        "video" : "https://yemzybhin.github.io/jsonholder/4.mp4"
+    },
+
+    {
+        "userName": "Josie",
+        "handle" : "",
+        "profileImage" : "https://i.pinimg.com/474x/ef/bc/92/efbc9235d47b568a79426faae57fe2c5.jpg",
+        "description" : "Snack Showdown: Play Fuck, Marry, Kill with Jarmy",
+        "video" : "https://yemzybhin.github.io/jsonholder/5.mp4"
     }
+        
 ]
 }
